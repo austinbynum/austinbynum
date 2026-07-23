@@ -1,35 +1,36 @@
 # 👋 Hi, I'm Austin!
 
-**Data Analyst in Training | Business Operations Enthusiast | Problem Solver**
+# Data-Driven Operations Leader | Technical Account Manager | Problem Solver
 
-I am a former **Account Manager** currently pivoting into the world of **Data Analytics**. My background is rooted in managing complex client relationships and business operations, which has given me a deep appreciation for how data can drive strategic decisions and improve efficiency. 
+I am an Operations and Customer Success professional bridging the gap between technical infrastructure and business logic. With a background spanning end-to-end small business ownership, B2B SaaS portfolio retention, and relational database architecture, I leverage data to drive strategic decisions, scale processes, and improve efficiency. 
 
-I’m currently bridging the gap between "business logic" and "data science" by building a technical foundation to solve real-world problems.
+Having spent years in both technical and client-facing leadership roles, I build systems that solve real-world problems. 
 
----
+### 🚀 My Approach
 
-### 🚀 The Pivot
-I am currently completing the **Google Data Analytics Professional Certificate** and building a portfolio of projects that translate raw data into actionable insights. Having spent years in client-facing roles, I don't just look at numbers; I look for the story they tell and the value they provide to stakeholders.
+I believe that the best operational strategies are rooted in clean data and empathetic stakeholder management. I don't just look at numbers; I look for the story they tell and the tangible value they provide to a business. Whether I am onboarding a client to a complex software ecosystem, optimizing a CRM pipeline, or architecting a database, my focus is always on creating unbeatable customer satisfaction and robust, scalable workflows. 
 
 ### 🛠 Tech Stack & Skills
-* **Languages:** Python (Pandas, NumPy), SQL, R, and a foundation in PHP.
-* **Tools:** Tableau, Google Data Studio (Interactive Dashboards), Excel/Google Sheets.
-* **Concepts:** Data Cleaning, Data Visualization, Statistical Analysis, and Zero-based Indexing.
-* **Soft Skills:** Stakeholder Management, Process Optimization, and Strategic Planning.
+
+*   **Languages:** SQL (Relational Databases), Python (Pandas, NumPy), R, and a foundation in PHP.
+*   **Tools:** Salesforce (Custom Reporting & Dashboards), Tableau, Google Data Studio, Advanced Excel & Google Sheets (Pivot Tables, XLOOKUP, Modeling).
+*   **Concepts:** Data Cleaning, Data Visualization, End-to-End Operational Planning, Financial Management, Pipeline Maintenance.
+*   **Soft Skills:** Cross-Functional Leadership, Stakeholder Management, Process Improvement, and Calm Under Pressure.
 
 ### 📈 What I'm Working On
-* 📊 Developing interactive dashboards to visualize complex datasets.
-* 🐍 Automating data workflows using Python.
-* 🌐 Building out my personal portfolio site to showcase my end-to-end analysis projects.
+
+*   📊 Developing interactive CRM dashboards to visualize account health and complex datasets.
+*   🐍 Automating data workflows and maintaining data hygiene for large-scale administrative initiatives.
+*   🌐 Building out my personal portfolio site to showcase my operational leadership and end-to-end analysis projects.
 
 ### ⚡ Fun Fact
-When I’m not digging into datasets, you can find me exploring the outdoors in my RV or getting lost in a game of Minecraft or Terratech.
 
----
+When I’m not digging into datasets or optimizing processes, you can find me exploring the outdoors in my RV or getting lost in a game of Minecraft or Terratech.
 
 ### 📫 How to reach me:
-* **LinkedIn:** [https://www.linkedin.com/in/austin-bynum-323228315/](https://www.linkedin.com/in/austin-bynum-323228315/)
-* **Portfolio:** [https://www.austinbynum.com](https://www.austinbynum.com/)
+
+*   **LinkedIn:** [linkedin.com/in/austin-bynum-323228315](https://www.linkedin.com/in/austin-bynum-323228315/)
+*   **Portfolio:** [austinbynum.com](https://www.austinbynum.com)
 
 <!--
 **austinbynum/austinbynum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
